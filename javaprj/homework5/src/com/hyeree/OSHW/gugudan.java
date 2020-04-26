@@ -23,6 +23,8 @@ public class gugudan {
 				}
 				j++;
 			}
+		} else if(n<0) {
+			System.out.println("음수는 구구단 출력이 불가능합니다");
 		}
 	}
 
